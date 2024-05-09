@@ -1,0 +1,32 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 8px;
+}
+caption {
+  margin-bottom: 16px;
+}
+h1 {
+  font-family: cursive; 
+  color: darkgreen;}
+body {
+  color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: skyblue;}
+p {
+  color: darkred;
+  font-family: fantasy;
+  font-size: x-large;
+  font-weight: normal;
+  margin: 30px;
+}
+thead {
+  font-size: 100%;
+  background-color: #333;
+  color: white;
+  text-transform: uppercase;
+}
+tbody {
+  background-color: #eee;
+}
